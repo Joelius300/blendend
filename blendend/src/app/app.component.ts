@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {Bild} from "./model/bild";
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'blendend';
+  bilder: Bild[] = [{
+    src: 'blabla.jpg',
+    bezeichnung: 'dies ist ein blatt',
+    title: 'Blatt'
+  }, {
+    src: 'tata.jpg',
+    bezeichnung: 'dies ist eine pizza dsfla jflk adsjlfjdslk fjdlskajfl dsajfsad fldjfsdl kfj ds fdslkfdsjlk fl',
+    title: 'pizza'
+  }];
 }

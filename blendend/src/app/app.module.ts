@@ -8,10 +8,15 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import {FlexModule} from '@angular/flex-layout';
+import { BildSpezifikationComponent } from './bild-spezifikation/bild-spezifikation.component';
+import {MatCardModule} from "@angular/material/card";
+import { PersonComponent } from './person/person.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BildSpezifikationComponent,
+    PersonComponent
   ],
   imports: [
     BrowserModule,
@@ -21,6 +26,7 @@ import {FlexModule} from '@angular/flex-layout';
     MatInputModule,
     MatButtonModule,
     FlexModule,
+    MatCardModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
