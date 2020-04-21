@@ -3,3 +3,11 @@ export class Bild {
   title: string;
   bezeichnung: string;
 }
+
+export class BildBearbeitet {
+  src: string;
+  bezeichnung: string;
+  blende: string;
+  verschlusszeit: string;
+  iso: string;
+}

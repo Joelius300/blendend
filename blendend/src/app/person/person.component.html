@@ -1,4 +1,5 @@
 <div fxLayout="column" fxLayoutGap="20px">
+  <h1 fxFlexOffset="40px">{{title}}</h1>
   <div *ngFor="let bild of bilder">
     <app-bild-spezifikation [bild]="bild"></app-bild-spezifikation>
   </div>

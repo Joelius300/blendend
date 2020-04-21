@@ -11,12 +11,16 @@ import {FlexModule} from '@angular/flex-layout';
 import { BildSpezifikationComponent } from './bild-spezifikation/bild-spezifikation.component';
 import {MatCardModule} from "@angular/material/card";
 import { PersonComponent } from './person/person.component';
+import { BildBearbeitetSpezifikationComponent } from './bild-bearbeitet-spezifikation/bild-bearbeitet-spezifikation.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BildSpezifikationComponent,
-    PersonComponent
+    PersonComponent,
+    BildBearbeitetSpezifikationComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

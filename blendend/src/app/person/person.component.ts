@@ -8,6 +8,7 @@ import {Bild} from "../model/bild";
 })
 export class PersonComponent implements OnInit {
 
+  @Input() title: string;
   @Input() bilder: Bild[];
 
   constructor() {
