@@ -1,0 +1,35 @@
+[
+  {
+    "src":"assets/images/joel/Kette.jpg",
+    "srcBefore":"assets/images/joel/Kette_Original.jpg",
+    "title":"Kette",
+    "description":"Eine super tolle Kette",
+    "imageSpecs": {
+      "aperture": "F/4",
+      "shutterSpeed": "1/160",
+      "iso": 160
+    }
+  },
+  {
+    "src":"assets/images/joel/Rohr.jpg",
+    "srcBefore":"assets/images/joel/Rohr_Original.jpg",
+    "title":"Rohr",
+    "description":"Ein super tolles Rohr",
+    "imageSpecs": {
+      "aperture": "F/3.5",
+      "shutterSpeed": "1/160",
+      "iso": 100
+    }
+  },
+  {
+    "src":"assets/images/joel/Wasserhahn.jpg",
+    "srcBefore":"assets/images/joel/Wasserhahn_Original.jpg",
+    "title":"Wasserhahn",
+    "description":"Ein super toller Wasserhahn",
+    "imageSpecs": {
+      "aperture": "F/2.8",
+      "shutterSpeed": "1/400",
+      "iso": 100
+    }
+  }
+]
