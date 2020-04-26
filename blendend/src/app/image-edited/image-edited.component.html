@@ -1,8 +1,9 @@
 <mat-card class="image-card">
-  <!-- TODO: before/after slider -->
-  <div fxLayout="row" fxLayoutAlign="center center">
-    <img mat-card-image [src]="image.srcBefore" alt="Original">
-    <img mat-card-image [src]="image.src" alt="Bearbeitet">
+  <div #slider mat-card-image class="beer-slider" data-beer-label="Original">
+    <img [src]="image.srcBefore" alt="Original">
+    <div class="beer-reveal" data-beer-label="Bearbeitet">
+      <img [src]="image.src" alt="Bearbeitet">
+    </div>
   </div>
   <mat-card-content>
     <mat-card-title>{{image.title}}</mat-card-title>
