@@ -1,0 +1,17 @@
+<mat-card class="image-card">
+  <!-- TODO: before/after slider -->
+  <div fxLayout="row" fxLayoutAlign="center center">
+    <img mat-card-image [src]="image.srcBefore" alt="Original">
+    <img mat-card-image [src]="image.src" alt="Bearbeitet">
+  </div>
+  <mat-card-content>
+    <mat-card-title>{{image.title}}</mat-card-title>
+    <p>{{image.description}}</p>
+    <mat-card-title>Technische Daten</mat-card-title>
+    <ul>
+      <li><strong>Blende:</strong> {{image.imageSpecs.aperture}}</li>
+      <li><strong>Verschlusszeit:</strong> {{image.imageSpecs.shutterSpeed}} Sekunden</li>
+      <li><strong>ISO:</strong> {{image.imageSpecs.iso}} ISO</li>
+    </ul>
+  </mat-card-content>
+</mat-card>
