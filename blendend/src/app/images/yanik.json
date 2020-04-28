@@ -1,0 +1,35 @@
+[
+  {
+    "src":"assets/images/yanik/1. bild.jpg",
+    "srcBefore":"assets/images/yanik/1. bild unbearbeitet.jpg",
+    "title":"Metallstück",
+    "description":"Ein Seil mit einem Metallstück",
+    "imageSpecs": {
+      "aperture": "F/4",
+      "shutterSpeed": "1/160",
+      "iso": 160
+    }
+  },
+  {
+    "src":"assets/images/joel/Rohr.jpg",
+    "srcBefore":"assets/images/joel/Rohr_Original.jpg",
+    "title":"Rohr",
+    "description":"Ein super tolles Rohr",
+    "imageSpecs": {
+      "aperture": "F/3.5",
+      "shutterSpeed": "1/160",
+      "iso": 100
+    }
+  },
+  {
+    "src":"assets/images/yanik/3. bild.jpg",
+    "srcBefore":"assets/images/yanik/3. bild unbearbeitet.jpg",
+    "title":"Kette",
+    "description":"Eine super tolle Kette",
+    "imageSpecs": {
+      "aperture": "F/5.3",
+      "shutterSpeed": "1/80",
+      "iso": 200
+    }
+  }
+]
