@@ -7,18 +7,18 @@
     "imageSpecs": {
       "aperture": "F/4",
       "shutterSpeed": "1/160",
-      "iso": 160
+      "iso": 100
     }
   },
   {
-    "src":"assets/images/joel/Rohr.jpg",
-    "srcBefore":"assets/images/joel/Rohr_Original.jpg",
-    "title":"Rohr",
-    "description":"Ein super tolles Rohr",
+    "src":"assets/images/yanik/2. bild.jpg",
+    "srcBefore":"assets/images/yanik/2. bild unbearbeitet.jpg",
+    "title":"Wasserhahn",
+    "description":"Ein super toller Wasserhahn",
     "imageSpecs": {
-      "aperture": "F/3.5",
+      "aperture": "F/4",
       "shutterSpeed": "1/160",
-      "iso": 100
+      "iso": 1600
     }
   },
   {
