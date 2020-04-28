@@ -8,16 +8,19 @@ import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { FlexModule } from '@angular/flex-layout';
 import { MatCardModule } from '@angular/material/card';
+import { MatListModule } from '@angular/material/list';
 import { ImageEditedComponent } from './image-edited/image-edited.component';
 import { ImageComponent } from './image/image.component';
 import { HomeComponent } from './home/home.component';
+import { UserComponent } from './user/user.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ImageEditedComponent,
     ImageComponent,
-    HomeComponent
+    HomeComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,
@@ -27,7 +30,8 @@ import { HomeComponent } from './home/home.component';
     MatInputModule,
     MatButtonModule,
     FlexModule,
-    MatCardModule
+    MatCardModule,
+    MatListModule
   ],
   providers: [],
   bootstrap: [AppComponent]
