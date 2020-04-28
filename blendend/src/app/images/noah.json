@@ -1,0 +1,35 @@
+[
+  {
+    "src":"assets/images/noah/tuerstopper.jpg",
+    "srcBefore":"assets/images/noah/tuerstopper_original.jpg",
+    "title":"Türstopper",
+    "description":"Dieses Foto ist ziemlich nah entstanden und ist beim hinteren Ausgang des BMS Gebäude aufgenommen worden. Eigentlich wollte ich die Linse auf die Höhe des Objekts bringen, jedoch gelang mir dies nicht wunschgemäss, da bei dieser Photopirsch der Boden etwas nass war und ich mich dadurch nicht hinlegen konnte. Deshalb ist nun der Hintergrund nicht sehr interessant. Beim Editieren wollte ich das Bild primär aufhellen und ich versuchte anschliessend die Struktur im Gummi besser zum Vorschein zu bringen.",
+    "imageSpecs": {
+      "aperture": "F/5.3",
+      "shutterSpeed": "1/80",
+      "iso": 400
+    }
+  },
+  {
+    "src":"assets/images/noah/poller.jpg",
+    "srcBefore":"assets/images/noah/poller_original.jpg",
+    "title":"Poller",
+    "description":"Bei diesem Foto stand ich etwas weiter weg vom Objekt als bei den anderen Bildern. Das Objekt ist vor der Klangbrücke auf der Seite es MTB Gebäue zu finden. Da diese Aufnahme bei der zweiten Fotopirsch entstand und ich die Brennweite noch zuwenig gut kannte, ist der Hintergrund leider ziemlich detailliert erkennbar. Bei der Bearbeitung legte ich vor allem wert darauf, dass die blau/graue Farbe des Pollers besser erkennbar ist.",
+    "imageSpecs": {
+      "aperture": "F/5.5",
+      "shutterSpeed": "1/180",
+      "iso": 125
+    }
+  },
+  {
+    "src":"assets/images/noah/tuerklinke.jpg",
+    "srcBefore":"assets/images/noah/tuerklinke_original.jpg",
+    "title":"Türklinke",
+    "description":"Dieses Foto ist aus nächster Nähe entstanden. Diese spezielle Türklinke befindet sich gleich nach der Klangbrücke auf der linken Seite auf dem Weg zur TF an einer massiven Metalltüre. Ich versuchte mithilfe der geringen Blende den Fokus stark auf die Klinke zu richten und den Hintergrund verschwimmen zu lassen. Beim Bearbeiten versuchte ich das Bild mit einbisschen weniger Kontrast etwas heller wirken zu lassen. Desweiteren versuchte ich die rote Farbe an der Wand und den violetten Gummi etwas kräftiger wirken zu lassen.",
+    "imageSpecs": {
+      "aperture": "F/4.8",
+      "shutterSpeed": "1/80",
+      "iso": 80
+    }
+  }
+]
