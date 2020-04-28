@@ -1,7 +1,7 @@
 [
   {
-    "src":"assets/images/yanik/1. bild.jpg",
-    "srcBefore":"assets/images/yanik/1. bild unbearbeitet.jpg",
+    "src":"assets/images/yanik/Metallstück.jpg",
+    "srcBefore":"assets/images/yanik/Metallstück_Original.jpg",
     "title":"Metallstück",
     "description":"Ein Seil mit einem Metallstück",
     "imageSpecs": {
@@ -11,8 +11,8 @@
     }
   },
   {
-    "src":"assets/images/yanik/2. bild.jpg",
-    "srcBefore":"assets/images/yanik/2. bild unbearbeitet.jpg",
+    "src":"assets/images/yanik/Wasserhahn.jpg",
+    "srcBefore":"assets/images/yanik/Wasserhahn_Original.jpg",
     "title":"Wasserhahn",
     "description":"Ein super toller Wasserhahn",
     "imageSpecs": {
@@ -22,9 +22,9 @@
     }
   },
   {
-    "src":"assets/images/yanik/3. bild.jpg",
-    "srcBefore":"assets/images/yanik/3. bild unbearbeitet.jpg",
-    "title":"Kette",
+    "src":"assets/images/yanik/Kettenende.jpg",
+    "srcBefore":"assets/images/yanik/Kettenende_Original.jpg",
+    "title":"Kettenende",
     "description":"Eine super tolle Kette",
     "imageSpecs": {
       "aperture": "F/5.3",
