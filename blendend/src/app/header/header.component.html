@@ -1,0 +1,20 @@
+<mat-toolbar fxLayoutAlign="center center">
+  <a id="title" mat-button [routerLink]="['/']">Blendend</a>
+
+  <div fxHide.xs>
+    <a mat-button [routerLink]="['/joel']">Joel Liechti</a>
+    <a mat-button [routerLink]="['/noah']">Noah Schär</a>
+    <a mat-button [routerLink]="['/yanik']">Yanik Gerber</a>
+  </div>
+  <div fxHide.gt-xs>
+    <mat-menu #appMenu="matMenu">
+      <a mat-menu-item [routerLink]="['/joel']">Joel</a>
+      <a mat-menu-item [routerLink]="['/noah']">Noah</a>
+      <a mat-menu-item [routerLink]="['/yanik']">Yanik</a>
+    </mat-menu>
+
+    <button mat-icon-button [matMenuTriggerFor]="appMenu">
+      <mat-icon>menu</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>

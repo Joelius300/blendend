@@ -20,17 +20,26 @@ export class UserComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.route.params.subscribe((params) =>
-      this.user = params.user
-    );
+    this.route.params.subscribe((params) => {
+      if (params.user === this.user) {
+        return;
+      }
 
-    // definitely suboptimal but who cares
-    if (!this.validUsers.includes(this.user)) {
-      this.router.navigate(['/']);
-    }
+      // definitely suboptimal but who cares
+      if (!this.validUsers.includes(params.user)) {
+        this.router.navigate(['/']);
+        return;
+      }
 
+      this.user = params.user;
+      this.getImages();
+    });
+
+    this.getImages();
+  }
+
+  private getImages(): void {
     this.httpClient.get<Image[]>(`assets/${this.user}.json`)
                    .subscribe(result => this.images = result);
   }
-
 }

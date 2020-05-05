@@ -1,4 +1,4 @@
-<div fxLayout="column" fxLayoutAlign="start center" fxLayoutGap="20px">
+<div fxLayout="column" fxLayoutAlign="space-around center" fxLayoutGap="30px">
   <h1>Joel</h1>
   <app-image-edited *ngFor="let image of joelImages" [image]="image"></app-image-edited>
 
@@ -9,8 +9,12 @@
   <app-image-edited *ngFor="let image of yanikImages" [image]="image"></app-image-edited>
 
   <h1>Video</h1>
-  <iframe width="610" height="320" src="https://www.youtube.com/embed/ydbdtdgCu14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div [class.iframe-container]="isSmall">
+    <iframe class="youtube-frame" width="560" height="315" src="https://www.youtube.com/embed/ydbdtdgCu14" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
   <h1>Livestream</h1>
-  <iframe width="610" height="320" src="https://www.youtube.com/embed/EEIk7gwjgIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div [class.iframe-container]="isSmall">
+    <iframe class="youtube-frame" width="560" height="315" src="https://www.youtube.com/embed/EEIk7gwjgIM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
