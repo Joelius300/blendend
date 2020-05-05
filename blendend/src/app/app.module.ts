@@ -13,6 +13,7 @@ import { ImageEditedComponent } from './image-edited/image-edited.component';
 import { ImageComponent } from './image/image.component';
 import { HomeComponent } from './home/home.component';
 import { UserComponent } from './user/user.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { UserComponent } from './user/user.component';
     MatButtonModule,
     FlexModule,
     MatCardModule,
-    MatListModule
+    MatListModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
