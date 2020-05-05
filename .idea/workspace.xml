@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346ddf79-78c0-4bc7-bd6a-42efae6babfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/images/yanik/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/pdfs/yanik/Datenformate.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/pdfs/yanik/Software-Plugins-Scripts.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/pdfs/yanik/Urheberrecht-Copyright.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blendend/src/assets/yanik.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blendend/src/assets/yanik.json" beforeDir="false" afterPath="$PROJECT_DIR$/blendend/src/assets/yanik.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +86,7 @@
       <workItem from="1588072986791" duration="1984000" />
       <workItem from="1588079473760" duration="79000" />
       <workItem from="1588079562665" duration="1242000" />
-      <workItem from="1588685752033" duration="1201000" />
+      <workItem from="1588685752033" duration="1338000" />
     </task>
     <servers />
   </component>
