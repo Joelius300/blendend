@@ -9,25 +9,17 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./user.component.scss']
 })
 export class UserComponent implements OnInit {
-  validUsers = ['joel', 'noah', 'yanik'];
   user: string;
   images: Image[];
 
   constructor(
     private route: ActivatedRoute,
-    private router: Router,
     private httpClient: HttpClient
   ) { }
 
   ngOnInit(): void {
     this.route.params.subscribe((params) => {
       if (params.user === this.user) {
-        return;
-      }
-
-      // definitely suboptimal but who cares
-      if (!this.validUsers.includes(params.user)) {
-        this.router.navigate(['/']);
         return;
       }
 
