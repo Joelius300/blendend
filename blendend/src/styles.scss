@@ -1,4 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+$headerFont: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
@@ -10,19 +11,21 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 h1 {
   font-size: 3rem !important;
-  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  font-family: $headerFont !important;
 }
 
 #title {
   font-size: 2.5rem !important;
   color: white !important;
-  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  font-family: $headerFont !important;
+  padding: 5px 15px !important;
 }
 
 .user {
   font-size: 1.5rem !important;
   color: white !important;
-  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  font-family: $headerFont !important;
+  padding: 0 10px !important;
 }
 
 .nav {
@@ -30,11 +33,15 @@ h1 {
 }
 
 .mat-card-title {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
+}
+
+.image-title {
+  font-size: 1.6rem;
 }
 
 p {
-  font-size: 1rem !important;
+  font-size: 1.1rem !important;
 }
 
 .mat-icon {

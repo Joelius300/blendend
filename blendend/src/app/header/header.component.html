@@ -1,12 +1,12 @@
 <mat-toolbar fxLayoutAlign="center center" class="nav">
   <a id="title" mat-button [routerLink]="['/']">Blendend</a>
 
-  <div fxHide.xs>
+  <div fxHide fxShow.gt-sm>
     <a mat-button [routerLink]="['/joel']" class="user">Joel Liechti</a>
     <a mat-button [routerLink]="['/noah']" class="user">Noah Schär</a>
     <a mat-button [routerLink]="['/yanik']" class="user">Yanik Gerber</a>
   </div>
-  <div fxHide.gt-xs>
+  <div fxHide.gt-sm>
     <mat-menu #appMenu="matMenu">
       <a mat-menu-item [routerLink]="['/joel']">Joel</a>
       <a mat-menu-item [routerLink]="['/noah']">Noah</a>

@@ -16,7 +16,7 @@ export class HeaderComponent implements OnDestroy {
 
   constructor(private mediaObserver: MediaObserver ) {
     this.watcher = mediaObserver.asObservable().subscribe((_: MediaChange[]) => {
-      if (!this.mediaObserver.isActive('xs')) {
+      if (this.mediaObserver.isActive('gt-sm')) {
         this.trigger.closeMenu();
       }
     });
