@@ -2,8 +2,8 @@
   {
     "src":"assets/images/joel/Kette.jpg",
     "srcBefore":"assets/images/joel/Kette_Original.jpg",
-    "title":"Kette",
-    "description":"Eine super tolle Kette",
+    "title":"Schaukelkette",
+    "description":"Die rostige Kette ist in der linken Hälfte des Bildes. Der Hintergrund mit der zweiten Kette rechts ist verschwommen und lässt das Objekt herausstechen. Das Objekt ist nur leicht links und die Balance wird durch das Schaukelbrett und durch die zweite Kette gehalten. Die Schaukel ist in dem Park des Schulareals. Durch die Bearbeitung wirkt das Bild wärmer und lässt die Kette mehr auffallen.",
     "imageSpecs": {
       "aperture": "F/4",
       "shutterSpeed": "1/160",
@@ -13,8 +13,8 @@
   {
     "src":"assets/images/joel/Rohr.jpg",
     "srcBefore":"assets/images/joel/Rohr_Original.jpg",
-    "title":"Rohr",
-    "description":"Ein super tolles Rohr",
+    "title":"Rostiges Rohr",
+    "description":"Das rostige Rohr ist in der rechten Hälfte des Bildes. Es wurde vor der Lernhalle aufgenommen und durch die offene Blende verfügt es über einen verschwommenen Hintergrund. Die Balance im Bild wird durch das zweite Rohr links und den Zaun aufrecht gehalten. Durch die Bearbeitung erhält das Bild mehr Farbe und das Rohr mehr Fokus.",
     "imageSpecs": {
       "aperture": "F/3.5",
       "shutterSpeed": "1/160",
@@ -24,8 +24,8 @@
   {
     "src":"assets/images/joel/Wasserhahn.jpg",
     "srcBefore":"assets/images/joel/Wasserhahn_Original.jpg",
-    "title":"Wasserhahn",
-    "description":"Ein super toller Wasserhahn",
+    "title":"Wasserventil",
+    "description":"Dieses Wasserventil wurde vor der Lernhalle aufgenommen und gehört zu einem Rohrgebilde. Die anderen Teile des Rohrgebildes halten die Balance des Bildes aufrecht und durch die offene Blende ist der Hintergrund verschwommen. In der Nachbearbeitung wurde das Ventil erhellt und die Details besser sichtbar gemacht.",
     "imageSpecs": {
       "aperture": "F/2.8",
       "shutterSpeed": "1/400",
