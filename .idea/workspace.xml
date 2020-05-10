@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="346ddf79-78c0-4bc7-bd6a-42efae6babfa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blendend/src/app/images/yanik.json" beforeDir="false" afterPath="$PROJECT_DIR$/blendend/src/app/images/yanik.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blendend/src/assets/yanik.json" beforeDir="false" afterPath="$PROJECT_DIR$/blendend/src/assets/yanik.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZZFX9PrKez59Nixeop6OD3Cbqf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Yanik Gerber\Documents\Sterchi website\blendend\blendend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yanik Gerber\Documents\Sterchi website\blendend\blendend\src\assets\pdfs\yanik" />
+      <recent name="C:\Users\Yanik Gerber\Documents\Sterchi website\blendend\blendend\src\assets\images\yanik" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (blendend)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/blendend/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/blendend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346ddf79-78c0-4bc7-bd6a-42efae6babfa" name="Default Changelist" comment="" />
+      <created>1585038746064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585038746064</updated>
+      <workItem from="1585038748117" duration="116000" />
+      <workItem from="1585038874998" duration="218000" />
+      <workItem from="1587478175948" duration="3274000" />
+      <workItem from="1588065126908" duration="128000" />
+      <workItem from="1588065324935" duration="3286000" />
+      <workItem from="1588072986791" duration="1984000" />
+      <workItem from="1588079473760" duration="79000" />
+      <workItem from="1588079562665" duration="1242000" />
+      <workItem from="1588685752033" duration="1368000" />
+      <workItem from="1589125985099" duration="52000" />
+      <workItem from="1589126216867" duration="2361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585038862435">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1585038862435" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1585038864860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585038864860" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1585038864860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585038864860" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1585038864860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585038864860" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1585038864860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585038864860" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1588686692581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1588686692581" />
+  </component>
+</project>
